@@ -1,7 +1,7 @@
 # Meeting-notes
--Learned about what is D.R.I.O.D Star
+-Learned about what is D.R.I.O.D Star and focus app
 
--How to use focus app 
+## How to use focus app 
 
 1) Focus app is important to be turned on before clocking in 
 2) if you haven't run the focus app, it would be considered you aren't working 
